@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Projects/movies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/apple/Projects/movies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e501bbb12eb62423e1a8c1110a701cf4dd4554e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Projects/movies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fed4c2eca6b6aa79b4e3ac705838c6dbbb658ae6">
+        <dex dex="/Users/apple/Projects/movies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1cdf9eb6b453874ac7fc10c3ad37a8eba9fc6a8b/classes.dex" />
+    </item>
+
+</items>
